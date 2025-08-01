@@ -1,0 +1,30 @@
+@media (max-width: 375px) {
+  .card-info h1 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+
+  .card-info p {
+    font-size: 0.85rem;
+    margin-bottom: 10px;
+  }
+
+  .social-img img {
+    border-radius: 50%;
+    width: 35px;
+  }
+
+  .social-container h2 {
+    font-size: 0.75rem;
+    color: hsl(217, 19%, 35%);
+    margin: 6px 0 0 20px;
+  }
+
+  .social-container span {
+    font-size: 0.65rem;
+  }
+}
+
+.attribution {
+  margin: 20px auto 0 auto;
+}
